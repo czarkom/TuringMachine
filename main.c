@@ -35,7 +35,7 @@ void turing(instrukcja *zmiany, int tasiemka[])
 int main()
 {
     int tasma[6];
-    printf("kupaaaaa\n");
+    printf("kupaaaaa Madziulon\n");
     printf("podaj swoja 6 cyfrowa tasme (wpisujac cyfra-enter itd)\n");
     for(int i=0;i<6;i++)
     { scanf("%d",&tasma[i]);
